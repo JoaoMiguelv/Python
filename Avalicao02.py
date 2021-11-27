@@ -101,6 +101,7 @@ while opcao != 9:
         jogoquina()
 
     elif(opcao == 9):
+        print('PROGRAMA FINALIZADO!')
         break
     else:
         print("Opção Inválida")
